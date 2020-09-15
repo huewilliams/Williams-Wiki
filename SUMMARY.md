@@ -18,6 +18,7 @@
   * [1장 애자일 개발 방법론](programming/software-devlop-and-test/untitle.md)
   * [2장 태스크 관리](programming/software-devlop-and-test/untitled.md)
   * [3장\(1\) JIRA를 이용한 스크럼 프로젝트 관리](programming/software-devlop-and-test/3-1-jira.md)
+  * [3장\(2,3\) 소프트웨어 팀의 구조, 코드 리뷰](programming/software-devlop-and-test/untitled-1.md)
 * [DDD Start!](programming/ddd-start/README.md)
   * [1. 도메인 모델 시작](programming/ddd-start/untitled.md)
   * [2. 아키텍쳐 개요](programming/ddd-start/untitled-1.md)
